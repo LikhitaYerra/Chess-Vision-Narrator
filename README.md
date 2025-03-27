@@ -49,8 +49,8 @@
 2. Add your **OpenAI API key** to environment variables or notebook.
 
 3. Run the notebooks in order:
-   - `Untitled7.ipynb` – Piece detection using YOLO
-   - `Untitled9.ipynb` – Move generation + commentary pipeline
+   - `YOLO.ipynb` – Piece detection using YOLO
+   - `MAIN_APP.ipynb` – Move generation + commentary pipeline
 
 ---
 
@@ -66,11 +66,5 @@
 - Best with **top-down chess videos**
 - Fixed-angle camera improves accuracy
 - Prompts can be customized to change tone of commentary
-
----
-
-## 📄 License
-
-MIT License — feel free to use, fork, and improve this project!
 
 ---
