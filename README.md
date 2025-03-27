@@ -23,8 +23,8 @@
 
 | Notebook         | Description                                                  |
 |------------------|--------------------------------------------------------------|
-| `Untitled7.ipynb`| YOLO setup and chess piece detection pipeline                |
-| `Untitled9.ipynb`| Full video-to-commentary system using LLM and optional TTS   |
+| `YOLO.ipynb`| YOLO setup and chess piece detection pipeline                |
+| `MAIN_APP.ipynb`| Full video-to-commentary system using LLM and optional TTS   |
 
 ---
 
