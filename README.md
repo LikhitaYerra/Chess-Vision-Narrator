@@ -4,11 +4,12 @@
   <em>Watch. Decode. Comment. Entertain.</em><br>
   <strong>AI-powered Chess Video Summarizer with YOLO and LLMs</strong>
 </p>
-              <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-  <img width="256" height="256" 
+<div style="text-align: center;">
+  <img width="512" height="512" 
        alt="ChatGPT Image Aug 21, 2025 at 10_54_23 AM" 
        src="https://github.com/user-attachments/assets/1c90c24c-1fa3-46c2-a38e-6d2f4f31460a" />
 </div>
+
 
 
 ---
